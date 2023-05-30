@@ -10,3 +10,4 @@ function App() {
 
 //Because it is possible to export more than one component from a file, we use the default keyword to tell React that this component should be imported if none is specified.
 export default App;
+
